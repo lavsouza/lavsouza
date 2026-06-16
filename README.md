@@ -1,4 +1,4 @@
-# Olá tudo bem, eu sou Lucas👋
+# Olá, eu sou Lucas👋
 
 Sou estudante de Análise e Desenvolvimento de Sistemas no IFPE e desenvolvedor em formação, com interesse em backend, sistemas web, computação criativa e interfaces interativas.
 
